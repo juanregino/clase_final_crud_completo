@@ -1,0 +1,31 @@
+1er Paso 
+- crear la carpeta database 
+- dentro de la carpeta database crear el archivo json 
+{
+  "colecciones":[]
+}
+
+2º Paso
+- Crear la carpeta js 
+
+3º Paso
+- dentro de la carpeta js, crear la carpeta de api
+- dentro de la carpeta api crear el archivo clientHTTP.js y URLS.js ,
+ FUNCIONES ENCARGADAS DE INTERACTUAR DIRECTAMENTE CON LA BASE DE DATOS
+
+4º Paso
+- dentro de la carpeta de js, crear la carpeta de register
+- dentro de la carpeta register crear el archivo index.js
+
+5º Paso
+- dentro de la carpeta js crear la carpeta login 
+- dentro de login crear el archivo index.js
+- dentro de la carpeta js crear la carpeta Guards 
+- y dentro de Guards crear el archivo authGuards.js
+
+6º Paso
+- dentro de la carpeta js crear la carpeta admin
+- dentro de admin crear el archivo index.js
+- dentro de admin crear el archivo functionsDOM.js
+
+
